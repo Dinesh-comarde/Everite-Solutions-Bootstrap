@@ -115,6 +115,10 @@
   font-size: 0.8em;
 }
 
+.footer-index ul li a:hover {
+  color: #3e8e41;
+}
+
 /*Animations*/
 .line-up {
   animation: 2s anim-lineUp ease-out;
